@@ -60,6 +60,11 @@ Here are the technologies and tools I excel at. I believe in using the right too
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
   </a>
 </p>
+<p align="center">
+  <a href="mailto:ss147856@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
