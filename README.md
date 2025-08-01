@@ -61,7 +61,7 @@ Here are the technologies and tools I excel at. I believe in using the right too
   </a>
 </p>
 <p align="center">
-  <a href="mailto:ss147856@gmail.com">
+  <a href="mailto:salah.mahmoud.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -99,7 +99,7 @@ My approach to any technical challenge is guided by these principles:
 I'm always open to collaborating on interesting projects or discussing new ideas.
 
 <p align="center">
-  <a href="mailto:ss147856@gmail.com">
+  <a href="mailto:salah.mahmoud.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
